@@ -7,4 +7,8 @@ console.log(typeof age);
 let con=Number(age)
 console.log(typeof(con));
 console.log(con);
+//1=true 
+//0=false
+//""=false
+//" "=true
 
